@@ -3,7 +3,7 @@ D_EJC (Disc Ejector) Ejects Disc from your prefered drive with a single click
 
 Supported platform: Windows only  
 
-I made this for my beloved Apple SuperDrive, which doesn't have a disc eject button!!  
+I made this for my Apple-branded SuperDrive optical drive, which doesn't have a disc eject button!!  
 
 ### How to use  
 Please rename the .exe file.  
@@ -20,3 +20,10 @@ JP: D_EJC (Disc Ejector): 愛用のSuperdrive用に作っただけのディス�
 ### License/ライセンス  
 Y.Yokoha A License /横茶横葉Aライセンス  
 https://yokonoha.github.io/alicense  
+
+### 権利表記  
+Apple, SuperDriveはApple Inc.の商標または登録商標です  
+WindowsはMicrosoft Corporationの商標または登録商標です  
+Apple and SuperDrive are trademarks or registered trademarks of Apple Inc.  
+Windows is a trademark or registered trademark of Microsoft Corporation.  
+All trademarks are the property of their respective owners.  
