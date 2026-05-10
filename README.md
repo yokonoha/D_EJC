@@ -10,7 +10,7 @@ Please rename the .exe file.
 If your target drive (ODD) is 'F:', please rename it 'F_EJC.exe'.  
 That's all! You can then eject the disc by clicking the app icon.  
 
-JP: D_EJC (Disc Ejector): 愛用のSuperdrive用に作っただけのディスク排出ボタンアプリです(物理排出ボタンがないのがネックですが、これさえあれば少し便利になると思います!)。  [
+JP: D_EJC (Disc Ejector): 愛用のSuperdrive用に作っただけのディスク排出ボタンアプリです(物理排出ボタンがないのがネックですが、これさえあれば少し便利になると思います!)。  
 
 ### 使い方  
 ソフトのexeファイルの名前を変更してください。  
