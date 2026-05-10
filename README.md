@@ -21,6 +21,10 @@ JP: D_EJC (Disc Ejector): 愛用のSuperdrive用に作っただけのディス�
 Y.Yokoha A License /横茶横葉Aライセンス  
 https://yokonoha.github.io/alicense  
 
+## Download / ダウンロードリンク  
+
+https://github.com/yokonoha/D_EJC/releases/download/first/D_EJC.exe
+
 ### 権利表記  
 Apple, SuperDriveはApple Inc.の商標または登録商標です  
 WindowsはMicrosoft Corporationの商標または登録商標です  
